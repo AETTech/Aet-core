@@ -3,7 +3,7 @@ Aet Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/aet-project/aet.svg?branch=master)](https://travis-ci.org/aet-project/aet)
 
-https://aet.org
+https://aet.pub
 
 What is Aet?
 ----------------
