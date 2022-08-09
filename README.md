@@ -15,7 +15,7 @@ out collectively by the network. Aet Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Aet Core software, see [https://aet.org](https://aet.org).
+the Aet Core software, see [https://aet.pub](https://aet.pub).
 
 License
 -------
